@@ -73,13 +73,8 @@ flutter run
 
 ## 📸 Screenshots
 
-Add screenshots of your app here:
+![Uploading image.png…]()
 
-```markdown
-![Home Screen](screenshots/home.png)
-![Profile Screen](screenshots/profile.png)
-![Friends Screen](screenshots/friends.png)
-![Notifications Screen](screenshots/notifications.png)
 ```
 
 ## 🎯 Purpose
